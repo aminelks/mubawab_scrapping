@@ -1,0 +1,7 @@
+pgcli
+SQLAlchemy<2.0
+psycopg2-binary
+pandas
+apache-airflow
+requests
+beautifulsoup4
