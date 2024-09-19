@@ -12,3 +12,5 @@ This ETL pipeline retrieves data from the Mubawab website and performs the follo
 3. **Data Loading**: The cleaned data is inserted into a PostgreSQL database.
 4. **Scheduling & Orchestration**: The entire ETL process is scheduled and monitored with Apache Airflow, running inside Docker containers for easy deployment.
 5. **Data Visualization**: Visualize and analyze the data using Metabase.
+
+![Dashboard](images/mubawab_dashboard.pdf)
