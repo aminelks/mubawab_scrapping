@@ -2,6 +2,7 @@
 
 This project extracts real estate data from Mubawab using web scraping, processes it with Python, and loads it into a PostgreSQL database. The ETL pipeline is orchestrated with Apache Airflow and runs inside Docker containers for consistency and scalability. The data is then visualized using Metabase.
 
+![ETL Process Diagram](images/DiskInternals Research.download.png)
 ## **Overview**
 
 This ETL pipeline retrieves data from the Mubawab website and performs the following steps:
